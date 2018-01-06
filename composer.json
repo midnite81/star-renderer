@@ -4,7 +4,8 @@
     "type": "library",
     "require-dev": {
         "phpunit/phpunit": "^6.5",
-        "sempro/phpunit-pretty-print": "^1.0"
+        "sempro/phpunit-pretty-print": "^1.0",
+        "satooshi/php-coveralls": "1.0.*"
     },
     "license": "MIT",
     "autoload": {
