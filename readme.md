@@ -1,4 +1,4 @@
-#StarRenderer
+# StarRenderer
 
 A package to render out star ratings. More docs to follow
 
